@@ -7,6 +7,6 @@ elseif Place == 7903991471 then
     warn("Pet Trading")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/PetTrading/PremiumVersion.lua"))()
 elseif Place == 15705682243 then
-    warn("[🧸TOY] Tapping Legends Final")
+    warn("[🏖️SUMMER] Tapping Legends Final")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/TappingFinal/Script.lua"))()
 end
