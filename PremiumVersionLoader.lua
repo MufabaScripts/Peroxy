@@ -9,4 +9,7 @@ elseif Place == 7903991471 then
 elseif Place == 15705682243 then
     warn("[🏖️SUMMER] Tapping Legends Final")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/TappingFinal/Script.lua"))()
+elseif Place == 16187934859 then
+    warn("Sword Warrior Simulator")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/TappingFinal/Script.lua"))()
 end
