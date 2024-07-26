@@ -2,10 +2,10 @@ local Place = game.PlaceId
 
 if Place == 7346416636 then
     warn("Pop It Trading ✨")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/PopItTrading/FreeVersion.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/PopItTrading/Script.lua"))()
 elseif Place == 7903991471 then
     warn("Pet Trading")
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/PetTrading/FreeVersion.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/PetTrading/Script.lua"))()
 elseif Place == 15705682243 then
     warn("[🏖️SUMMER] Tapping Legends Final")
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MufabaScripts/Peroxy/main/TappingFinal/Script.lua"))()
